@@ -1,0 +1,961 @@
+{
+  "startDate": "2021-03-01T00:00:00",
+  "employees": [
+    {
+      "id": 0,
+      "shifts": null
+    },
+    {
+      "id": 1,
+      "shifts": null
+    },
+    {
+      "id": 2,
+      "shifts": null
+    },
+    {
+      "id": 3,
+      "shifts": null
+    },
+    {
+      "id": 4,
+      "shifts": null
+    },
+    {
+      "id": 5,
+      "shifts": null
+    }
+  ],
+  "shifts": [
+    {
+      "startTime": "2021-03-01T08:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-01T08:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-01T08:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-01T16:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-01T16:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-01T16:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-02T08:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-02T08:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-02T08:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-02T16:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-02T16:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-02T16:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-03T08:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-03T08:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-03T08:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-03T16:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-03T16:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-03T16:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-04T08:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-04T08:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-04T08:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-04T16:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-04T16:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-04T16:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-05T08:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-05T08:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-05T08:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-05T16:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-05T16:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    },
+    {
+      "startTime": "2021-03-05T16:20:00",
+      "durationMin": 480,
+      "domain": [
+        {
+          "id": 0,
+          "shifts": null
+        },
+        {
+          "id": 1,
+          "shifts": null
+        },
+        {
+          "id": 2,
+          "shifts": null
+        },
+        {
+          "id": 3,
+          "shifts": null
+        },
+        {
+          "id": 4,
+          "shifts": null
+        },
+        {
+          "id": 5,
+          "shifts": null
+        }
+      ],
+      "employee": null
+    }
+  ]
+}

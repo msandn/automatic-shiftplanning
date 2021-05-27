@@ -1,0 +1,1238 @@
+{
+  "startDate": "2021-03-01T00:00:00",
+  "employees": [
+    {
+      "id": 0,
+      "shifts": [],
+      "skillIds": [1,2]
+
+    },
+    {
+      "id": 1,
+      "shifts": [],
+      "skillIds": [3]
+    },
+    {
+      "id": 2,
+      "shifts": [],
+      "skillIds": [1,2]
+    },
+    {
+      "id": 3,
+      "shifts": [],
+      "skillIds": [1,2]
+    },
+    {
+      "id": 4,
+      "shifts": [],
+      "skillIds": [3]
+    },
+    {
+      "id": 5,
+      "shifts": [],
+      "skillIds": [3]
+    }
+  ],
+  "shifts": [
+    {
+      "id": 0,
+      "startTime": "2021-03-01T08:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-01T08:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-01T08:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-01T16:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-01T16:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-01T16:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-02T08:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-02T08:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-02T08:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-02T16:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-02T16:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-02T16:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-03T08:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-03T08:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-03T08:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-03T16:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-03T16:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-03T16:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-04T08:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-04T08:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-04T08:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-04T16:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-04T16:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-04T16:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-05T08:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-05T08:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-05T08:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-05T16:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-05T16:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    },
+    {
+      "id": 0,
+      "startTime": "2021-03-05T16:20:00",
+      "durationMin": 480,
+      "skillIds": [1],
+      "domain": [
+        {
+          "id": 0,
+          "shifts": [],
+          "skillIds": [1,2]
+
+        },
+        {
+          "id": 1,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 2,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 3,
+          "shifts": [],
+          "skillIds": [1,2]
+        },
+        {
+          "id": 4,
+          "shifts": [],
+          "skillIds": [3]
+        },
+        {
+          "id": 5,
+          "shifts": [],
+          "skillIds": [3]
+        }
+      ],
+      "employee": null
+    }
+  ]
+}
