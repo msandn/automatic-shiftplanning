@@ -7,9 +7,9 @@ import java.time.LocalDate;
  */
 public class GASettings {
     //What the algorithm should take height for
-    private boolean percentageOfEmployments = true;
-    private boolean maxWorkPerDay = true;
-    private boolean maxWorkPerWeek = true;
+    private boolean percentageOfEmployments = false;
+    private boolean maxWorkPerDay = false;
+    private boolean maxWorkPerWeek = false;
     private boolean customWorkPerK = false;
     private boolean overlap = true;
 

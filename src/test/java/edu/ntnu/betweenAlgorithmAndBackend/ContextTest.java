@@ -13,7 +13,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class ContextTest {
     public static void main(String[] args) {
         ShiftSchedule shiftSchedule;
-        shiftSchedule = ShiftScheduleTest.getMockShiftSchedule(1,   1);
+        shiftSchedule = ShiftScheduleTest.getMockShiftSchedule(1,   12);
         GASettings gaSettings = new GASettings();
         Context context = new Context(gaSettings);
         Solution solution = context.getShiftScheduleSolution(shiftSchedule);

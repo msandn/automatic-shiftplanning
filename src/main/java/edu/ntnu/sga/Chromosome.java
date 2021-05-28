@@ -6,6 +6,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Chromosome implements Comparable<Chromosome>{
+    Score<SGA> score;
     int fitness = 0;
     boolean calFitness = true;
     final int[] genes;
@@ -41,9 +42,13 @@ public class Chromosome implements Comparable<Chromosome>{
         return genes;
     }
 
+    public Score<SGA> getScore() {
+        return score;
+    }
+
     @Override
     public int compareTo(Chromosome o) {
-        return this.getFitness()-o.getFitness();
+        return this.score.compareTo(o.getScore());
     }
 
     @Override

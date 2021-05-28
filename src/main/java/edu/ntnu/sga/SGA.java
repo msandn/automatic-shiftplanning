@@ -25,7 +25,7 @@ public class SGA {
     NonRepeatRandom nonRepeatRandom;
 
     public SGA(int[][] domain){
-        this.generations = 10;
+        this.generations = 100;
         this.populationSize = 10000;
         this.eliteToKeep = (int) (populationSize*0.02);
         this.mutationChance = 0.02;

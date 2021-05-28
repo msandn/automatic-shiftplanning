@@ -73,7 +73,7 @@ public class Context {
         List<Restrictions> restrictions = new ArrayList<>();
 
         int population = 1000;
-        int generation = 100        ;
+        int generation = 500        ;
         int maxScore = Integer.MAX_VALUE / population;
         System.out.println("Max score per chromosome: " + maxScore/4);
 
